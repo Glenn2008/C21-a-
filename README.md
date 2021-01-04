@@ -1,2 +1,2 @@
-# C21-a-
-myownlibrary
+# collisionAlgorithm
+Algorithm to detect collision between two objects
